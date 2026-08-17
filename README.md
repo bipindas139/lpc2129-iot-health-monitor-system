@@ -72,4 +72,4 @@ Bipindas K V — B.Tech, Electronics and Communication Engineering
 
 ## License
 
-MIT
+MIT License
